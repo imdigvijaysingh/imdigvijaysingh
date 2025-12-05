@@ -42,4 +42,3 @@
 
 - 📧 **Email:** [digvijay.singh2005@outlook.com](mailto:digvijay.singh2005@outlook.com)  
 - 💼 **LinkedIn:** [linkedin.com/in/digvijay-singh-pundir-12a628343](https://www.linkedin.com/in/digvijay-singh-pundir-12a628343)  
-- 🐙 **GitHub:** [github.com/digvijaysingh108](https://github.com/imdigvijaysingh)
