@@ -29,6 +29,7 @@
 - Developed and deployed a React-based website on the official college server  
 - Focused on improved UI/UX and performance optimization  
 - 👉 Live: https://dbgi.in/  
+- 👉 Faster Version: https://dbgisre.netlify.app/  
 ---
 
 ## 💻 Tech Stack  
