@@ -1,23 +1,34 @@
 # 👋 Hi, I'm Digvijay Singh  
 
-### B.Tech (CSE) | MERN Stack Developer | Tech Enthusiast  
+### Full Stack MERN Developer | Building AI-Powered Web Apps
 
 ---
 
 ## 🧠 About Me  
 - Student at **Dr. A.P.J. Abdul Kalam Technical University, Lucknow**   
 - Passionate about **full-stack development** using the **MERN** stack (**MongoDB, Express.js, React.js, Node.js**)  
-- Exploring **AI-powered web solutions** by integrating **machine learning** into real-world applications
+- Building **AI-powered web solutions** by integrating **machine learning** into real-world applications
 
 ---
----
-
 ## 🧩 Projects  
 
-- **OnBoard - Social Media App** - A Full Stack Project developed using MongoDB, ExpressJS, ReactJS, NodeJS [https://onboardsocial.netlify.app/]
-- **Language Detector** – Detects 22 languages using NextJS, ReactJS, Tailwind CSS, Python, Scikit-Learn [https://language-detection-lbny.vercel.app/] 
-- **My College Website Redesign** – Built using ReactJS [http://dbgisre.netlify.app/]
+### **OnBoard - Social Media App**
+- Full-stack social platform with authentication, posts, and user interactions  
+- Built using MongoDB, Express.js, React.js, Node.js  
+- 👉 Live: https://onboardsocial.netlify.app/  
 
+---
+
+### **Language Detector**
+- Detects 22 languages using machine learning models  
+- Integrated Python (Scikit-Learn) with modern frontend (Next.js + Tailwind CSS)  
+- 👉 Live: https://language-detection-lbny.vercel.app/  
+
+---
+### **College Website Redesign**
+- Developed and deployed a React-based website on the official college server  
+- Focused on improved UI/UX and performance optimization  
+- 👉 Live: https://dbgi.in/  
 ---
 
 ## 💻 Tech Stack  
@@ -36,6 +47,26 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 
+---
+
+## 🚀 Achievements / Highlights  
+- Developed and deployed a React-based college website on the official college server  
+- Built multiple full-stack and AI-integrated projects with real-world applications  
+
+---
+
+## 🛠 Currently Building  
+- **OnBoard** – A full-stack social media application using the MERN stack  
+- **Language Detector** – A machine learning-based web app using Next.js, React.js, and Python  
+
+---
+
+## 📚 What I’m Learning  
+- Advanced backend development and scalable system design  
+- Integrating AI/ML models into full-stack applications  
+- Building production-ready and user-focused web products  
+
+---
 
 ## 📫 Contact  
 
