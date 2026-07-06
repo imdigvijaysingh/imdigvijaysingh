@@ -21,7 +21,7 @@ Currently focused on creating production-ready applications while continuously i
 # 💼 Professional Experience
 
 ## Frontend Developer & Web Solutions Associate
-**DG Infotech**
+**ERP TECH PRO, Roorkee, UK, India**
 
 Worked on client-facing web applications and educational platforms while collaborating directly with clients to understand business requirements.
 
@@ -97,12 +97,9 @@ A complete redesign of an educational institution's website with a focus on spee
 - Performance optimized
 - Production deployment
 - Improved navigation and accessibility
-
-🔗 React Version
-https://dbgisre.netlify.app/
-
-🔗 Official Website
-https://dbgi.in/
+  
+🔗 Website
+https://devbhoomigi.netlify.app/
 
 ---
 
