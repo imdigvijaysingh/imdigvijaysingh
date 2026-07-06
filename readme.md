@@ -1,75 +1,194 @@
-# 👋 Hi, I'm Digvijay Singh  
+# Hi there 👋 I'm Digvijay Singh
 
-### Full Stack MERN Developer | Building AI-Powered Web Apps
+### Full Stack MERN Developer • Building Production-Ready Web Applications • Exploring AI Integration
 
----
+I'm a Full Stack Developer passionate about transforming ideas into scalable web applications. I enjoy building modern user experiences, developing secure backend systems, and integrating AI into practical products.
 
-## 🧠 About Me  
-- Student at **Dr. A.P.J. Abdul Kalam Technical University, Lucknow**   
-- Passionate about **full-stack development** using the **MERN** stack (**MongoDB, Express.js, React.js, Node.js**)  
-- Building **AI-powered web solutions** by integrating **machine learning** into real-world applications
-
----
-## 🧩 Projects  
-
-### **OnBoard - Social Media App**
-- Full-stack social platform with **authentication, posts, and user interactions**  
-- Built using **MongoDB, Express.js, React.js, Node.js**  
-- Features include **secure authentication**, **dynamic content handling**, and **responsive UI** 
-- 👉 Live: https://onboardsocial.netlify.app/  
+Currently focused on creating production-ready applications while continuously improving my knowledge of system design, backend architecture, and software engineering best practices.
 
 ---
 
-### **Language Detector**
-- Detects **22 languages** using **machine learning** model  
-- Integrated **Python** (**Scikit-Learn**) with modern frontend (**React.js + Next.js + Tailwind CSS**)  
-- 👉 Live: https://language-detection-lbny.vercel.app/  
+## 🚀 About Me
 
----
-### **College Website Redesign**
-- Developed and deployed a React-based website on the **official college server**  
-- Focused on improved **UI/UX** and performance optimization  
-- 👉 Live: https://dbgi.in/  
-- 👉 Faster Version: https://dbgisre.netlify.app/  
----
-
-## 💻 Tech Stack  
-
-![ReactJS](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![NodeJS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+- 💻 Full Stack MERN Developer
+- 🌱 Continuously shipping real-world projects and learning through hands-on development
+- 🤝 Experience working with real clients and deploying production websites
+- 🧠 Interested in scalable backend systems, AI integration, and modern web technologies
+- 🎯 Goal: Build software that solves real business problems
 
 ---
 
-## 🚀 Achievements / Highlights  
-- Developed and deployed a React-based college website on the official college server  
-- Built multiple full-stack and AI-integrated projects with real-world applications  
+# 💼 Professional Experience
+
+## Frontend Developer & Web Solutions Associate
+**DG Infotech**
+
+Worked on client-facing web applications and educational platforms while collaborating directly with clients to understand business requirements.
+
+### Responsibilities
+
+- Developed responsive React applications
+- Designed modern UI/UX interfaces
+- Integrated REST APIs
+- Maintained production websites
+- Communicated with clients to gather requirements
+- Assisted institutions with ERP and website solutions
+- Created digital assets and managed technical content
 
 ---
 
-## 🛠 Currently Building  
-- **OnBoard** – A full-stack social media application using the MERN stack  
-- **Language Detector** – A machine learning-based web app using Next.js, React.js, and Python  
+# 🚀 Featured Projects
+
+## 🌐 OnBoard — Full Stack Social Media Platform
+
+**Tech Stack**
+
+- React
+- Node.js
+- Express.js
+- MongoDB
+
+### Highlights
+
+- JWT Authentication
+- User Profiles
+- Dynamic Feed
+- Like & Comment System
+- Responsive Design
+- Secure REST APIs
+
+🔗 Live Demo:
+https://onboardsocial.netlify.app/
 
 ---
 
-## 📚 What I’m Learning  
-- Advanced backend development and scalable system design  
-- Integrating AI/ML models into full-stack applications  
-- Building production-ready and user-focused web products  
+## 🗣️ AI Language Detector
+
+Machine Learning powered web application capable of detecting **22 languages**.
+
+**Tech Stack**
+
+- Next.js
+- React
+- Tailwind CSS
+- Python
+- Scikit-Learn
+
+### Highlights
+
+- Custom-trained ML model
+- Real-time prediction
+- Modern responsive interface
+- AI integrated with frontend
+
+🔗 Live Demo:
+https://language-detection-lbny.vercel.app/
 
 ---
 
-## 📫 Contact  
+## 🏛️ DBGI College Website
 
-- 📧 **Email:** [digvijaysinghpundir18@gmail.com](mailto:digvijaysinghpundir18@gmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/digvijay-singh-pundir-12a628343](https://www.linkedin.com/in/digvijay-singh-pundir-12a628343)  
+A complete redesign of an educational institution's website with a focus on speed, accessibility, and user experience.
+
+### Highlights
+
+- Modern React architecture
+- Responsive UI
+- Performance optimized
+- Production deployment
+- Improved navigation and accessibility
+
+🔗 React Version
+https://dbgisre.netlify.app/
+
+🔗 Official Website
+https://dbgi.in/
+
+---
+
+# 🛠 Tech Stack
+
+### Frontend
+
+- React.js
+- Next.js
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Tailwind CSS
+
+### Backend
+
+- Node.js
+- Express.js
+- REST APIs
+
+### Databases
+
+- MongoDB
+- MySQL
+
+### AI & Machine Learning
+
+- Python
+- Scikit-Learn
+- Model Integration
+- AI-assisted Applications
+
+### Tools
+
+- Git
+- GitHub
+- VS Code
+- Postman
+- Netlify
+- Vercel
+
+---
+
+# 📈 What I'm Working On
+
+- Building production-grade MERN applications
+- Learning System Design
+- Backend scalability
+- Authentication & Security
+- AI integration into web applications
+- Cloud deployment workflows
+
+---
+
+# 🏆 Highlights
+
+- 🚀 Production deployment experience
+- 💼 Real-world client project experience
+- 🌍 Responsive web applications
+- 🤖 AI-powered applications
+- 📚 Continuous learner committed to improving software engineering skills
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+📧 Email:
+**digvijaysinghpundir18@gmail.com**
+
+💼 LinkedIn
+https://www.linkedin.com/in/digvijay-singh-pundir-12a628343
+
+🌐 Portfolio
+https://digvijaysingh-xi.vercel.app/
+
+---
+⭐ Thanks for visiting my profile!
