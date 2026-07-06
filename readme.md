@@ -168,9 +168,9 @@ https://devbhoomigi.netlify.app/
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=imdigvijaysingh&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=imdigvijaysingh&theme=tokyonight"/>
 
 </p>
 
@@ -185,7 +185,7 @@ https://devbhoomigi.netlify.app/
 https://www.linkedin.com/in/digvijay-singh-pundir-12a628343
 
 🌐 Portfolio
-https://digvijaysingh-xi.vercel.app/
+https://digvijayp.netlify.app/
 
 ---
 ⭐ Thanks for visiting my profile!
