@@ -1,191 +1,133 @@
 # Hi there 👋 I'm Digvijay Singh
 
-### Full Stack MERN Developer • Building Production-Ready Web Applications • Exploring AI Integration
+### Full-Stack MERN Engineer • Production-Grade ERP/CMS & Real-Time Platforms • Exploring AI Integration
 
-I'm a Full Stack Developer passionate about transforming ideas into scalable web applications. I enjoy building modern user experiences, developing secure backend systems, and integrating AI into practical products.
-
-Currently focused on creating production-ready applications while continuously improving my knowledge of system design, backend architecture, and software engineering best practices.
+I architect production-grade, role-based ERP/CMS platforms and real-time social infrastructure using **React 19, Node.js, Express 5 and MongoDB**. I care about secure, fault-tolerant, cost-efficient backends: JWT auth, RBAC, session security, audit logging, payment-gateway integration and data-privacy compliance (DPDP Act).
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Full Stack MERN Developer
-- 🌱 Continuously shipping real-world projects and learning through hands-on development
-- 🤝 Experience working with real clients and deploying production websites
-- 🧠 Interested in scalable backend systems, AI integration, and modern web technologies
-- 🎯 Goal: Build software that solves real business problems
+- 💻 Full-Stack MERN Engineer, currently at **Shyvora Technologies**
+- 🤝 Deliver custom web apps for small-business clients end-to-end: requirements → deployment → handoff
+- 🧑‍🏫 Mentor early-career developers on React, Node.js, architecture and code review
+- 🧠 Interested in scalable backend systems, system design, security and practical AI integration
+- 🎓 B.Tech in Computer Science & Engineering (2023 – 2027, expected)
 
 ---
 
 # 💼 Professional Experience
 
-## Frontend Developer & Web Solutions Associate
-**ERP TECH PRO, Roorkee, UK, India**
+### Full Stack Developer — Shyvora Technologies
+*August 2026 – Present*
 
-Worked on client-facing web applications and educational platforms while collaborating directly with clients to understand business requirements.
+- Deliver custom web applications for small-business clients end-to-end, from requirements gathering through deployment and handoff.
+- Mentor early-career developers on React.js, Node.js, full-stack project architecture and code review practices.
 
-### Responsibilities
+### Web Developer — ERP Tech Pro, Roorkee
+*June 2026 – August 2026*
 
-- Developed responsive React applications
-- Designed modern UI/UX interfaces
-- Integrated REST APIs
-- Maintained production websites
-- Communicated with clients to gather requirements
-- Assisted institutions with ERP and website solutions
-- Created digital assets and managed technical content
+- Developed and deployed business websites and ERP modules for multiple clients using React.js, Node.js, Express.js and Tailwind CSS.
+- Built reusable React components, secure authentication workflows and CRUD/REST API integrations with role-based access control.
+- Designed CMS/Admin panels so non-technical staff can manage users, business data and website content independently.
+- Translated ambiguous client needs into production-ready technical specifications.
+
+### Freelance Web Developer — Dev Bhoomi Group of Institutions
+*Dec 2025 – Feb 2026*
+
+- Redesigned and deployed the official institutional website as a React SPA: page load time **9.5s → 0.3s**, **95% fewer resource requests**, HTTP/2 asset delivery.
+- Improved technical SEO: H1 structure, metadata, image alt attributes and blocking-JavaScript issues.
 
 ---
 
 # 🚀 Featured Projects
 
-## 🌐 OnBoard — Full Stack Social Media Platform
+## 🏫 Campus ERP — Institutional Management & Early-Warning Platform
 
-**Tech Stack**
+**Stack:** React 19 · Node.js · Express 5 · MongoDB/Mongoose · Tailwind CSS 4 · Vite · JWT · Razorpay · ImageKit · Recharts · Axios
 
-- React
-- Node.js
-- Express.js
-- MongoDB
-
-### Highlights
-
-- JWT Authentication
-- User Profiles
-- Dynamic Feed
-- Like & Comment System
-- Responsive Design
-- Secure REST APIs
-
-🔗 Live Demo:
-https://onboardsocial.netlify.app/
+- **20+ modules, 23 REST API groups** (admissions, attendance, fees, exams, payroll, library, hostel, transport, inventory) across a public website, student portal and admin CMS.
+- **Early-warning risk engine** scoring students 0–100 on four weighted vectors (attendance 35%, academics 30%, finance 20%, engagement 15%) with explainable diagnostics, dashboards and intervention workflows.
+- **Auth & access:** JWT with username/email sign-in, dynamic RBAC across 8+ roles, bcrypt hashing, rate-limited routes, multi-device session registry with one-click remote revocation.
+- **Security & compliance:** encrypted/masked ID storage, immutable forensic audit logs with risk levels, DPDP Act under-18 consent gate, public data-access/erasure request portal.
+- **Payments & academics:** Razorpay checkout with itemized fee ledgers, scholarship adjustments and QR receipts; automated payroll (HRA, DA, EPF); exam engine with a 75% attendance hall-ticket gate and UGC 10-point grading (SGPA).
+- **Resilience:** request-timeout guard, trace-ID correlation, memory-pressure load shedding (HTTP 503), read-only quorum guard, client-side exponential backoff with jitter; media via ImageKit CDN; deployed on Netlify & Render.
 
 ---
 
-## 🗣️ AI Language Detector
+## 🌐 OnBoard — Full-Stack Social Platform
 
-Machine Learning powered web application capable of detecting **22 languages**.
+**Stack:** React.js · Node.js · Express.js · MongoDB Atlas · JWT · ImageKit · Tailwind CSS · REST APIs
 
-**Tech Stack**
+- **Normalized messaging schema** (separate membership, chapter and message-reference collections) supporting group roles, read pointers and mute controls while avoiding MongoDB's 16MB document limit.
+- **Offline-resilient messaging** with client-generated idempotency keys (UUIDs), local queueing and automatic reconnect sync, eliminating duplicate and lost messages.
+- **Zero-cost feed-ranking engine** using weighted engagement scoring (dwell time, replays, shares, saves) and a cohort-based cold-start ladder (50 → 500 → 5,000 users), with no paid LLM inference.
+- **Dual-token JWT auth** with HttpOnly refresh sessions, IP/User-Agent–fingerprinted sessions, and privacy-first location sharing with auto-expiring shares and a revoke-all switch.
+- **4-tier notification system** (Critical/High/Normal/Low) with dwell-time read tracking, atomic grouping of bulk actions and deep-linking, plus an SEO/editorial engine with dynamic meta and OpenGraph tags.
 
-- Next.js
-- React
-- Tailwind CSS
-- Python
-- Scikit-Learn
-
-### Highlights
-
-- Custom-trained ML model
-- Real-time prediction
-- Modern responsive interface
-- AI integrated with frontend
-
-🔗 Live Demo:
-https://language-detection-lbny.vercel.app/
+🔗 [Live Demo](https://onboardsocial.netlify.app/)
 
 ---
 
 ## 🏛️ DBGI College Website
 
-A complete redesign of an educational institution's website with a focus on speed, accessibility, and user experience.
+Complete redesign of an institutional website as a React SPA, focused on speed, accessibility and SEO.
 
-### Highlights
+- Page load **9.5s → 0.3s**, **95% fewer requests**, HTTP/2 delivery
+- Fixed technical SEO (headings, metadata, alt text) and improved navigation
 
-- Modern React architecture
-- Responsive UI
-- Performance optimized
-- Production deployment
-- Improved navigation and accessibility
-  
-🔗 Website
-https://devbhoomigi.netlify.app/
+🔗 [Website](https://devbhoomigi.netlify.app/)
+
+---
+
+## 🗣️ AI Language Detector
+
+Machine-learning web app that detects **22 languages** in real time.
+
+**Stack:** Next.js · React · Tailwind CSS · Python · Scikit-Learn
+
+🔗 [Live Demo](https://language-detection-lbny.vercel.app/)
 
 ---
 
 # 🛠 Tech Stack
 
-### Frontend
-
-- React.js
-- Next.js
-- JavaScript (ES6+)
-- HTML5
-- CSS3
-- Tailwind CSS
-
-### Backend
-
-- Node.js
-- Express.js
-- REST APIs
-
-### Databases
-
-- MongoDB
-- MySQL
-
-### AI & Machine Learning
-
-- Python
-- Scikit-Learn
-- Model Integration
-- AI-assisted Applications
-
-### Tools
-
-- Git
-- GitHub
-- VS Code
-- Postman
-- Netlify
-- Vercel
+| | |
+|---|---|
+| **Languages** | JavaScript (ES6+), HTML5, CSS3, SQL, Python |
+| **Frontend** | React 19, React Hooks, React Router v7, Next.js, Vite, Tailwind CSS 4, Recharts, Axios (interceptors), Responsive Design, SEO |
+| **Backend** | Node.js, Express 5, RESTful API design, Mongoose ODM, JWT, RBAC, Middleware Architecture, Rate Limiting, Helmet |
+| **Databases** | MongoDB, MongoDB Atlas (Replica Sets), Mongoose, MySQL, Schema Design & Data Modeling |
+| **Security & Compliance** | bcrypt, Session Management, Audit Logging, Data Encryption & Masking, DPDP Act 2023, CERT-In Guidelines |
+| **Reliability & Deployment** | Request Tracing, Circuit Breaker / Load Shedding, Exponential Backoff with Jitter, Health Checks, Nginx, GitHub Actions, Netlify, Vercel, Render |
+| **Integrations** | Razorpay, ImageKit CDN, EmailJS, CSV Bulk Import |
+| **AI / ML** | Python, Scikit-Learn, Model Integration |
+| **Tools** | Git, GitHub, VS Code, Postman |
 
 ---
 
 # 📈 What I'm Working On
 
-- Building production-grade MERN applications
-- Learning System Design
-- Backend scalability
-- Authentication & Security
+- Building production-grade MERN applications for real clients
+- System design and backend scalability
+- Authentication, security and compliance
 - AI integration into web applications
-- Cloud deployment workflows
-
----
-
-# 🏆 Highlights
-
-- 🚀 Production deployment experience
-- 💼 Real-world client project experience
-- 🌍 Responsive web applications
-- 🤖 AI-powered applications
-- 📚 Continuous learner committed to improving software engineering skills
 
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=imdigvijaysingh&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=imdigvijaysingh&theme=tokyonight"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=imdigvijaysingh&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imdigvijaysingh&theme=tokyonight"/>
 </p>
 
 ---
 
 # 📫 Connect With Me
 
-📧 Email:
-**digvijaysinghpundir18@gmail.com**
+📧 **Email:** digvijaysinghpundir18@gmail.com
+💼 **LinkedIn:** https://www.linkedin.com/in/digvijay-singh-pundir-12a628343
+🌐 **Portfolio:** https://digvijayp.netlify.app/
 
-💼 LinkedIn
-https://www.linkedin.com/in/digvijay-singh-pundir-12a628343
-
-🌐 Portfolio
-https://digvijayp.netlify.app/
-
----
 ⭐ Thanks for visiting my profile!
